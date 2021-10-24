@@ -17,6 +17,10 @@
 *Pfaff, Tobias, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter W. Battaglia.*<br>
 2021. [[PDF](https://arxiv.org/pdf/2010.03409)]
 
+**Learning Lagrangian Fluid Dynamics with Graph Neural Networks.**<br>
+*Li, Zijie, and Amir Barati Fariman.*<br>
+2021. [[PDF](https://openreview.net/pdf?id=7WwYBADS3E_)]
+
 **Swish: Neural Network Cloth Simulation on Madden NFL 21.**<br>
 *Lewin, Chris, James Power, and James Cobb.*<br>
 SIGGRAPH 2021. [[PDF](https://media.contentapi.ea.com/content/dam/ea/seed/presentations/seed-swish-cloth-simulation-madden-nfl.pdf)][[Website](https://www.ea.com/seed/news/swish-neural-network-cloth-sim-in-madden-nfl-21)]
