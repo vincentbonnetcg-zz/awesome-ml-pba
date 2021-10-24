@@ -71,8 +71,12 @@ Eurographics 2019. [[PDF](https://www.dgp.toronto.edu/projects/latent-space-dyna
 
 ## Additional Links
 
+**DeepPhysics: a physics aware deep learning framework for real-time simulation.**<br>
+*Odot, Alban, Ryadh Haferssas, and Stéphane Cotin.*<br>
+2021. [[PDF](https://hal.archives-ouvertes.fr/hal-03327818/document)]
+
 **Data-driven simulation in fluids animation: A survey.**<br>
-*Chen, Qian, Yue Wang, Hui Wang, and Xubo Yang. "Data-driven simulation in fluids animation: A survey.*<br>
+*Chen, Qian, Yue Wang, Hui Wang, and Xubo Yang.*<br>
 2021. [[PDF](http://vr-ih.com/vrih/resource/latest_accept/333305426272256.pdf)]
 
 **DiffTaichi: Differentiable Programming for Physical Simulation.**<br>
